@@ -1,7 +1,25 @@
-## Hi there 👋
+<h1>Hello, I'm Ellis Dang! <br/><a>Cybersecurity Student at Collin College</a>
+
+<h2> 👨‍💻 Cybersecurity Projects
+
+<h2> 📃 Education and Certifications</h2>
+
+- <b>Associatae's in Information Systems Cybersecurity</b> 
+- <b>Bachelor's of Applied Technology in Cybersecurity</b>
+
+- <b>Security+</b>
+
+
+
+
+<h2> 📜 Resume</h2>
+
+<h2> 🫂 References</h2>
+Available Upon Request
+
 
 <!--
-**EllisDang/EllisDang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
