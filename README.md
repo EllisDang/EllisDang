@@ -1,6 +1,8 @@
 <h1>Hello, I'm Ellis Dang! <br/><a>Cybersecurity Student at Collin College</a>
 
-<h2> 👨‍💻 Cybersecurity Projects
+<h2> 👨‍💻 Cybersecurity Projects</h2>
+  
+- [Home Security System Using Arduino Protype](https://github.com/EllisDang/ArduinoHomeSecurity)
 
 <h2> 📃 Education and Certifications</h2>
 
@@ -13,6 +15,8 @@
 
 
 <h2> 📜 Resume</h2>
+
+- [Ellis Dang's Resume](https://i.imgur.com/ZCkrD49.png)
 
 <h2> 🫂 References</h2>
 Available Upon Request
