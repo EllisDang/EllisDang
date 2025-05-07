@@ -6,7 +6,7 @@
 
 <h2> 📃 Education and Certifications</h2>
 
-- <b>Associatae's in Information Systems Cybersecurity</b> 
+- <b>Associate's in Information Systems Cybersecurity</b> 
 - <b>Bachelor's of Applied Technology in Cybersecurity</b>
 
 - <b>Security+</b>
