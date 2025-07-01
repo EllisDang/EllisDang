@@ -9,7 +9,6 @@
 - <b>Associate's in Information Systems Cybersecurity</b> 
 - <b>Bachelor's of Applied Technology in Cybersecurity</b>
 
-- <b>Security+</b>
 
 
 
