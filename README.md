@@ -15,7 +15,7 @@
 
 <h2> 📜 Resume</h2>
 
-- [Ellis Dang's Resume](https://i.imgur.com/ZCkrD49.png)
+- [Ellis Dang's Resume](https://imgur.com/a/FIUloon)
 
 <h2> 🫂 References</h2>
 Available Upon Request
